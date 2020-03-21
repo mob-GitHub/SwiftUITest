@@ -2,8 +2,8 @@
 //  LandmarkList.swift
 //  SwiftUITest
 //
-//  Created by 野見山晴輝 on 2020/02/11.
-//  Copyright © 2020 Haruki Nomiyama. All rights reserved.
+//  Created by mob on 2020/02/11.
+//  Copyright © 2020 mob. All rights reserved.
 //
 
 import SwiftUI

@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  SwiftUITest
 //
-//  Created by 野見山晴輝 on 2019/10/10.
-//  Copyright © 2019 Haruki Nomiyama. All rights reserved.
+//  Created by mob on 2019/10/10.
+//  Copyright © 2019 mob. All rights reserved.
 //
 
 import UIKit
